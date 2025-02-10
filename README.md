@@ -12,7 +12,7 @@
    git config --global user.email "e-mail"
    ```
 2. Инициализация репозитория
-   - **git init** - создает репозиторий
+   - **git init** - создает репозиторий в текущем каталоге
    ```git
    git init
    ```
