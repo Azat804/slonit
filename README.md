@@ -3,13 +3,13 @@
 
 1. Конфигурация Git
 
-   - **git config --global user.name "Tara Routray"** - задает имя пользователя
+   - **git config --global user.name "username"** - задает имя пользователя
    ```git
-   git config --global user.name "Tara Routray"
+   git config --global user.name "username"
    ```
-    - **git config --global user.email "dev@tararoutray.com"** - задает электронную почту
+    - **git config --global user.email "e-mail"** - задает электронную почту
    ```git
-   git config --global user.email "dev@tararoutray.com"
+   git config --global user.email "e-mail"
    ```
 2. Инициализация репозитория
    - **git init** - создает репозиторий
