@@ -7,7 +7,7 @@
    ```git
    git config --global user.name "username"
    ```
-    - **git config --global user.email "e-mail"** - задает электронную почту
+   - **git config --global user.email "e-mail"** - задает электронную почту
    ```git
    git config --global user.email "e-mail"
    ```
@@ -22,13 +22,13 @@
    ```git
    git add .
    ```
-    - **git add имя_файла** - добавляет файл в index
+   - **git add имя_файла** - добавляет файл в index
    ```git
    git add имя_файла
    ```
-    - **git rm имя_файла** - удаляет файл из рабочей директории и из index
+   - **git rm имя_файла** - удаляет файл из рабочей директории и из index
    ```git
-  git rm имя_файла
+   git rm имя_файла
    ```
    - **git mv старое_имя_файла новое_имя_файла** - Переименовывет файл в рабочей директории и в index
    ```git
