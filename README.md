@@ -71,9 +71,9 @@
    ```git
    git branch новая_ветка
    ```
-   - **git checkout -b new_branch_name** - создает новую ветку и перекулючается на нее
+   - **git checkout -b новая_ветка** - создает новую ветку и перекулючается на нее
    ```git
-   git checkout -b new_branch_name
+   git checkout -b новая_ветка
    ```
     - **git branch -D имя_существующей_ветки** - удаляет существующую ветку
    ```git
